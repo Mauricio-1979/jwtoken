@@ -1,0 +1,58 @@
+body{
+    background-image: url('../images/wallpaper.jpg');
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.tittle{
+    text-align: center;
+    color: rgb(252,238,180);
+    margin-top: 5%;
+}
+
+.parrafo{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: rgb(252,238,209);
+    font-size: 18px;
+}
+
+.contenedor{
+    text-align: center;
+    margin-top: 5%;
+    
+    -webkit-transform: rotate(-13deg); 
+    -moz-transform: rotate(-13deg);
+}
+
+/* .contenedor:hover{
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+    text-decoration-line: none;
+    font-size: 2.5rem;
+    -webkit-transform: rotate(-13deg); 
+    -moz-transform: rotate(-13deg);
+} */
+
+.btn{
+    color: rgb(252,238,180);
+    text-decoration-line: none;
+    font-size: 3rem;
+}
+
+.btn:hover{
+    color: white;
+    text-decoration-line: none;
+    font-size: 2.5rem;
+}
+
+.by{
+    text-align: center;
+    margin-top: 5%;
+    color: yellow;
+}
